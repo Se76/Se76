@@ -1,17 +1,17 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Mykola!+✨;" />
-</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=800&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Mykola!+%F0%9F%93%9A;" />
+</h3>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # Solana:
-[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#) [![Anchor](https://img.shields.io/badge/Anchor-Solana%20Framework-9945FF?style=for-the-badge)](#)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=se76&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=se76&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=se76&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 
 
 <!--
