@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=800&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Mykola!+%F0%9F%93%9A;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=800&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Mykola!;" />
 </h3>
 
 # 💻 Tech Stack:
