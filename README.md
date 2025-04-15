@@ -15,7 +15,7 @@
 struct MyLanguageSkills {
     english: B2,
     german: C1,
-    spanisch: A1,
+    spanish: A1,
     ukrainian: ∞,
     russian: ∞,
 }
